@@ -21,7 +21,7 @@ Research is discussed in #rand-substrate and voted on in #federation-substrate i
 3. Create a pull request with a [DCO signature](https://github.com/apps/dco).
 4. Wait for peer review.
 
-#federation-substrate has 90 days to deliberate your publication, during which you defend your claims and make the changes reviewers ask for. Follow the [Research & Development Submission Guide](https://ntari.slack.com/docs/T0978JCFFSL/F0BTB5N93A9): the method, the ethics check and the submission template.
+#federation-substrate deliberates your publication through testing, with no deadline: a pull request can stay open as long as it needs to, and a solution may wait dormant for years before it answers an emerging problem. While it is open you defend your claims and make the changes reviewers ask for. Follow the [Research & Development Submission Guide](https://ntari.slack.com/docs/T0978JCFFSL/F0BTB5N93A9): the method, the ethics check and the submission template.
 
 Merged research is published in #federation-volunteers, on [www.ntari.org](https://www.ntari.org) and affiliated social media channels, with the author(s) credited.
 
