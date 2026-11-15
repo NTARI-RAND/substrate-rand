@@ -562,4 +562,4 @@ print(sum(exp(-lam) * lam**i / factorial(i) for i in range(0, 40 - 20 + 1)))
 
 ---
 
-*Licensed under the [GNU Affero General Public License, version 3 only](https://www.gnu.org/licenses/agpl-3.0.txt) (AGPL-3.0-only), under governance registry Entry 9.*
+*Licensed under the [GNU Affero General Public License, version 3 only](../LICENSE) (AGPL-3.0-only), under governance registry Entry 9.*
